@@ -3,6 +3,7 @@
 ## Getting Started
 
 TELEGRAM_BOT_API_TOKEN - your telegram bot token
+
 SCHOOL_API_ACCESS_TOKEN - access token to your School portal
 
 [Documentation](https://api.school.mosreg.ru)
